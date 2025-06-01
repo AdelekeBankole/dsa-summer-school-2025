@@ -8,3 +8,7 @@ In order to follow along the following has to be set up beforehands:
 - Having `git` locally installed on your machine
 - Having a Github account
 - Having a SSH key associated with your GitHub account for authentication
+
+### Code of Conduct
+
+As participants in a collaborative project, it is expected to treat other people with respect.
